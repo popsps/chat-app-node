@@ -1,0 +1,28 @@
+{
+  "name": "chat-app-node",
+  "version": "1.0.0",
+  "description": "chat app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popsps/chat-app-node.git"
+  },
+  "author": "shayhoss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/popsps/chat-app-node/issues"
+  },
+  "homepage": "https://github.com/popsps/chat-app-node#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.3.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.6",
+    "@types/ws": "^7.2.6"
+  }
+}

@@ -1,0 +1,124 @@
+    {/*<button type="button" className="btn btn-secondary btn-lg m-3"*/}
+          {/*        onClick={() => this.sendHello()}>Say Hello*/}
+          {/*</button>*/}
+          {/*<section>*/}
+          {/*  <h1>Chat History</h1>*/}
+          {/*  <div className='chat-history'>*/}
+          {/*    <table className="table table-hover">*/}
+          {/*      <thead>*/}
+          {/*      <tr>*/}
+          {/*        <th scope="col">Message Sent to the Server</th>*/}
+          {/*        <th scope="col">Message received by the Server</th>*/}
+          {/*      </tr>*/}
+          {/*      </thead>*/}
+          {/*      <tbody>*/}
+          {/*      {chatHistory.map((msg, index) => {*/}
+          {/*        if (inRow) {*/}
+          {/*          inRow = false;*/}
+          {/*          return (*/}
+          {/*            <tr>*/}
+          {/*              <td>{message}</td>*/}
+          {/*              <td>{msg.data}</td>*/}
+          {/*            </tr>*/}
+          {/*          )*/}
+          {/*        } else {*/}
+          {/*          inRow = true;*/}
+          {/*          return (*/}
+          {/*            <tr className="table-dark">*/}
+          {/*              <td>{message}</td>*/}
+          {/*              <td>{msg.data}</td>*/}
+          {/*            </tr>*/}
+          {/*          )*/}
+          {/*        }*/}
+          {/*      })}*/}
+          {/*      </tbody>*/}
+          {/*    </table>*/}
+          {/*  </div>*/}
+          {/*</section>*/}
+
+          {/*
+             <div className="col-lg-4">
+            <div className="chat-bubble chat-bubble--left">
+              Hello dude!
+            </div>
+            <p className='user-name'>
+              Goo
+            </p>
+          </div>
+          <div className="col-lg-4">
+            <div className="chat-bubble chat-bubble--left">
+              Hello dude!
+            </div>
+            <p className='user-name'>
+              Goo
+            </p>
+          </div>
+          <div className="col-lg-4">
+            <div className="chat-bubble chat-bubble--left">
+              akelfn k;ewa;kf ea;knaeefl; kje;wkn;grkln ;rlgknerkl;g ;relb reklb;er gjer g;e rwg;ewrng;l
+              line2line2line2line2line2line2line2line2line2line2line2line2line2line2line2line2line2line2line2line2
+            </div>
+            <p className='user-name'>
+              Goo
+            </p>
+          </div>
+          <div className="col-lg-4 offset-lg-9">
+            <div className="chat-bubble chat-bubble--right">
+              Hello dude!
+            </div>
+          </div>
+          <div className="col-lg-4 offset-lg-9">
+            <div className="chat-bubble chat-bubble--right">
+              Hello dude!
+            </div>
+          </div>
+          <div className="col-lg-4 offset-lg-9">
+            <div className="chat-bubble chat-bubble--right">
+              Hello dude!
+            </div>
+          </div>
+          <div className="col-lg-4 offset-lg-9">
+            <div className="chat-bubble chat-bubble--right">
+              Hello dude!
+            </div>
+          </div>
+          <div className="col-lg-4 offset-lg-9 ">
+            <div className="chat-bubble chat-bubble--right">
+              Hello dude!
+            </div>
+          </div>
+          <div className="col-lg-4">
+            <div className="chat-bubble chat-bubble--left">
+              Hello dude!
+            </div>
+            <p className='user-name'>
+              Goo
+            </p>
+          </div>
+          <div className="col-lg-4 offset-lg-9 ">
+            <div className="chat-bubble chat-bubble--right">
+              Hello dude!
+            </div>
+          </div>
+          <div className="col-lg-4 offset-lg-9 ">
+            <div className="chat-bubble chat-bubble--right">
+              Hello dude!
+            </div>
+          </div>
+          <div className="col-lg-4 offset-lg-9 ">
+            <div className="chat-bubble chat-bubble--right">
+              Hello dude!
+            </div>
+          </div>
+          <div className="col-lg-4 offset-lg-9 ">
+            <div className="chat-bubble chat-bubble--right">
+              Hello dude!
+            </div>
+          </div>
+          <div className="col-lg-4 offset-lg-9 ">
+            <div className="chat-bubble chat-bubble--right">
+              Hello dude!
+            </div>
+          </div>
+
+          */}
