@@ -26,8 +26,6 @@ class App extends React.Component {
           incoming: true,
           username: username
         }]
-      }, () => {
-        console.log('state:', this.state)
       });
 
     });
