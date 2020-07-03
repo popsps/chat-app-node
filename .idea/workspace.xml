@@ -2,36 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5feefafc-7806-4ee8-8bc5-3ff8b199c286" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/chat-app-node.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/App.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/App.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/Materia.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/api/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/serviceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/t.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +81,8 @@
       <updated>1593614501005</updated>
       <workItem from="1593614505671" duration="13844000" />
       <workItem from="1593653874087" duration="2457000" />
+      <workItem from="1593727039206" duration="611000" />
+      <workItem from="1593772511154" duration="1405000" />
     </task>
     <servers />
   </component>
@@ -119,21 +97,21 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="294" y="294" key="EditFileWatcherDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1593615904966" />
-    <state width="1256" height="273" key="GridCell.Tab.0.bottom" timestamp="1593656331013">
+    <state width="1343" height="273" key="GridCell.Tab.0.bottom" timestamp="1593773120757">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="273" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1593656331013" />
-    <state width="1256" height="273" key="GridCell.Tab.0.center" timestamp="1593656331013">
+    <state width="1343" height="273" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1593773120757" />
+    <state width="1343" height="273" key="GridCell.Tab.0.center" timestamp="1593773120757">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="273" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1593656331013" />
-    <state width="1256" height="273" key="GridCell.Tab.0.left" timestamp="1593656331013">
+    <state width="1343" height="273" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1593773120757" />
+    <state width="1343" height="273" key="GridCell.Tab.0.left" timestamp="1593773120756">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="273" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1593656331013" />
-    <state width="1256" height="273" key="GridCell.Tab.0.right" timestamp="1593656331013">
+    <state width="1343" height="273" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1593773120756" />
+    <state width="1343" height="273" key="GridCell.Tab.0.right" timestamp="1593773120757">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1256" height="273" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1593656331013" />
+    <state width="1343" height="273" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1593773120757" />
   </component>
 </project>

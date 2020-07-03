@@ -54,26 +54,20 @@ class App extends React.Component {
     return (
       <div>
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
-          <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03"
-                  aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
-            <span className="navbar-toggler-icon"></span>
-          </button>
-          <div className="collapse navbar-collapse" id="navbarColor03">
-            <div className="userName">
-
-              <input className="form-control mr-sm-2" type="text"
-                     placeholder="username"
-                     ref={this.usernameRef}/>
-              <button className="btn btn-secondary my-2 my-sm-0" type="button"
-                      onClick={() => {
-                        this.setState({
-                          username: this.usernameRef.current.value
-                        }, () => {
-                          console.log('username:', this.state.username)
-                        })
-                      }}>Enter
-              </button>
-            </div>
+          <div className="userName">
+            <input className="form-control mr-sm-2" type="text"
+                   placeholder="username"
+                   ref={this.usernameRef}/>
+            <button className="btn btn-secondary my-2 my-sm-0" type="button"
+                    onClick={() => {
+                      this.setState({
+                        username: this.usernameRef.current.value
+                      }, () => {
+                        console.log('username:', this.state.username)
+                      })
+                    }}>Enter
+            </button>
+            <label>{this.state.username}</label>
           </div>
         </nav>
         <div className='container wrapper mb-5'>
@@ -89,8 +83,7 @@ class App extends React.Component {
                   </p>
                 </div>
               )
-            }
-            else {
+            } else {
               return (
                 <div className="col-lg-4 offset-lg-9" key={index}>
                   <div className="chat-bubble chat-bubble--right">
@@ -116,6 +109,7 @@ class App extends React.Component {
           }}>
             <i className="fa fa-paper-plane" aria-hidden="true"></i>
           </button>
+
         </div>
       </div>
     );

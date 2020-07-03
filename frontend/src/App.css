@@ -15,9 +15,14 @@ html, body {
   display: flex;
 }
 .userName label {
-  font-size: 25px;
+  font-size: 22px;
   font-weight: 100;
   color: #212121;
+  text-align: center;
+  margin: auto;
+  margin-left: 20px;
+  line-height: 45px;
+  border-bottom: 1px solid #212121;
 }
 .footer {
   position: sticky;
@@ -113,6 +118,25 @@ html, body {
 @media screen and (max-width: 600px) {
   .chat-bubble {
     font-size: 12px;
+  }
+
+  .userName {
+    flex-direction: column;
+    flex: 1;
+  }
+  .userName label {
+    font-size: 17px;
+    margin: 0;
+  }
+
+  .footer input {
+    font-size: 15px;
+  }
+  .footer button {
+    margin-right: 10px;
+  }
+  .footer button i {
+    font-size: 15px;
   }
 }
 

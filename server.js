@@ -23,6 +23,7 @@ wss.on("connection", (socket, request) => {
   socket.on("close", () => console.log("Socket disconnected"))
   console.log("new Socket connected")
   socket.send(JSON.stringify({message: "welcome to cyber chat", username: "server"}))
+  socket.send(JSON.stringify({message: "To start open up this chat-app in another tab and put in your username for each user, then write your message.", username: "server"}))
   if (messages.length > 0) {
     socket.send(JSON.stringify({message: "Chat currently in session", username: "server"}))
     messages.forEach(message => socket.send(message))
